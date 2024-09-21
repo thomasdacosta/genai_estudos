@@ -1,0 +1,23 @@
+(a) Qual é o comando para listar os pacotes instalados e suas versões?
+Resp: 
+pip freeze
+
+(b) Como mostrar os metadados do pacote numpy?
+Resp: 
+pip install --upgrade pip
+
+pip install numpy
+
+pip show numpy
+
+ou
+
+python src/metadata.py
+
+(c) Qual comando remove o pacote numpy?
+Resp: 
+pip uninstall numpy
+
+(d) Como criar um arquivo requirements.txt com os pacotes instalados e suas versões?
+Resp: 
+pip freeze > requirements.txt

@@ -1,0 +1,102 @@
+
+---------------------------------------------------------------------------
+
+Nossa equipe de atendimento ao cliente está sobrecarregada com feedback não estruturado. Sua tarefa é
+analisar o feedback e categorizar os problemas para nossas equipes de produto e engenharia. Use estas
+categorias: UI/UX, Desempenho, Solicitação de Recurso, Integração, Preços e Outros. Avalie também o
+sentimento (Positivo/Neutro/Negativo) e a prioridade (Alta/Média/Baixa). Aqui está um exemplo:
+
+<exemplo>
+Texto: O novo painel está uma bagunça! Demora uma eternidade para carregar e não consigo encontrar o botão
+de exportação. Corrijam isso o mais rápido possível!
+Categoria: UI/UX, Desempenho
+Sentimento: Negativo
+Prioridade: Alta
+</exemplo>
+
+Segue frases que precisam ser analisadas retorne as respostas no formato XML seguindo o seguintes formato de XML
+- Inclua uma tag resposta para englobar o resultado de cada pergunta;
+- Coloque a frase dentro da tag texto;
+- Coloque a categoria dentro da tag categoria;
+- Coloque a sentimento dentro da tag sentimento;
+- Coloque a prioridade dentro da tag prioridade;
+
+<comentarios>
+    <texto>Ótimo trabalho na implementação desta feature! O código está limpo e bem documentado. Isso vai ajudar muito nossa produtividade.</texto>
+    <texto>Esta mudança quebrou a funcionalidade X. Por favor, reverta o commit imediatamente.</texto>
+    <texto>Podemos discutir uma abordagem alternativa para este problema? Acho que a solução atual pode causar problemas de desempenho no futuro.</texto>
+    <texto>Obrigado por relatar este bug. Vou investigar e atualizar a issue assim que tiver mais informações.</texto>
+    <texto>Este pull request não segue nossas diretrizes de estilo de código. Por favor, revise e faça as correções necessárias.</texto>
+    <texto>Excelente ideia! Isso resolve um problema que estávamos enfrentando há semanas. Mal posso esperar para ver isso implementado.</texto>
+    <texto>Esta issue está aberta há meses sem nenhum progresso. Podemos considerar fechá-la se não for mais relevante?</texto>
+    <texto>O novo recurso está causando conflitos com o módulo Y. Precisamos de uma solução urgente para isso.</texto>
+    <texto>Boa captura! Este edge case não tinha sido considerado. Vou adicionar testes para cobrir este cenário.</texto>
+    <texto>Não entendo por que estamos priorizando esta feature. Existem problemas mais críticos que deveríamos estar abordando.</texto>
+</comentarios>
+
+---------------------------------------------------------------------------
+
+<comentarios>
+    <resposta>
+        <texto>Ótimo trabalho na implementação desta feature! O código está limpo e bem documentado. Isso vai ajudar muito nossa produtividade.</texto>
+        <categoria>Outros</categoria>
+        <sentimento>Positivo</sentimento>
+        <prioridade>Baixa</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Esta mudança quebrou a funcionalidade X. Por favor, reverta o commit imediatamente.</texto>
+        <categoria>Desempenho</categoria>
+        <sentimento>Negativo</sentimento>
+        <prioridade>Alta</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Podemos discutir uma abordagem alternativa para este problema? Acho que a solução atual pode causar problemas de desempenho no futuro.</texto>
+        <categoria>Desempenho</categoria>
+        <sentimento>Neutro</sentimento>
+        <prioridade>Média</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Obrigado por relatar este bug. Vou investigar e atualizar a issue assim que tiver mais informações.</texto>
+        <categoria>Outros</categoria>
+        <sentimento>Neutro</sentimento>
+        <prioridade>Baixa</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Este pull request não segue nossas diretrizes de estilo de código. Por favor, revise e faça as correções necessárias.</texto>
+        <categoria>Outros</categoria>
+        <sentimento>Negativo</sentimento>
+        <prioridade>Média</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Excelente ideia! Isso resolve um problema que estávamos enfrentando há semanas. Mal posso esperar para ver isso implementado.</texto>
+        <categoria>Solicitação de Recurso</categoria>
+        <sentimento>Positivo</sentimento>
+        <prioridade>Alta</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Esta issue está aberta há meses sem nenhum progresso. Podemos considerar fechá-la se não for mais relevante?</texto>
+        <categoria>Outros</categoria>
+        <sentimento>Neutro</sentimento>
+        <prioridade>Baixa</prioridade>
+    </resposta>
+    <resposta>
+        <texto>O novo recurso está causando conflitos com o módulo Y. Precisamos de uma solução urgente para isso.</texto>
+        <categoria>Integração</categoria>
+        <sentimento>Negativo</sentimento>
+        <prioridade>Alta</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Boa captura! Este edge case não tinha sido considerado. Vou adicionar testes para cobrir este cenário.</texto>
+        <categoria>Outros</categoria>
+        <sentimento>Positivo</sentimento>
+        <prioridade>Baixa</prioridade>
+    </resposta>
+    <resposta>
+        <texto>Não entendo por que estamos priorizando esta feature. Existem problemas mais críticos que deveríamos estar abordando.</texto>
+        <categoria>Outros</categoria>
+        <sentimento>Negativo</sentimento>
+        <prioridade>Alta</prioridade>
+    </resposta>
+</comentarios>
+
+---------------------------------------------------------------------------

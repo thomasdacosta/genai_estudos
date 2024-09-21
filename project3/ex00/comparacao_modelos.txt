@@ -1,0 +1,93 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(a) Quais foram os países medalistas finais das Olimpíadas de 2024?
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+respostas:
+* qwen: [Peço desculpas, mas como assistente digital, não tenho a capacidade de fornecer informações em tempo real ou eventos futuros. Como assistente IA, minha função é fornecer informações e respostas 
+pré-determinadas até certo ponto. Sugiro que você se inscreva para notificações da próxima vez que esses detalhes serem divulgados para evitar a frustração futura.
+]
+
+* llama: [As Olimpíadas de 2024 não ocorreram ainda. A cerimônia de abertura das Olimpíadas de Paris 2024 está prevista para acontecer em 26 de julho de 2024. Portanto, não é possível fornecer os resultados finais, pois eles ainda não foram realizados.
+Vou estar feliz em fornecer as medalhas e os resultado das Olimpíadas quando forem realizadas.]
+
+* gemini: [As Olimpíadas de 2024 ainda não ocorreram! Elas estão programadas para acontecer em Paris, França, de 26 de julho a 11 de agosto de 2024.
+Claro que posso te informar sobre os medalhistas finais assim que os Jogos Olímpicos terminarem! 😊]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(b) Quem é o patrono da cidade de São Bernardo do Campo e qual é a sua história?
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+respostas:
+* qwen: [A Cidade de São Bernardo do Campo tem como Patrono a Imaculada Conceição, que está ligada à Igreja Nossa Senhora Aparecida. É um compromisso religioso importante que enche cada casa e cidade local.
+A história da paróquia de Nossa Senhora Aparecida na Cidade de São Bernardo do Campo data de 1837, quando uma comunidade de cristãos se une para criar uma nova igreja. No ano seguinte, em 20 de agosto de 
+1838, a Igreja Nossa Senhora Aparecida foi inaugurada.
+Acredita-se que a celebração do feriado da Semana Santa esteja ligada à história desta paróquia. Esta é uma data importante naquela cidade, e muitos fiéis se deslocam para a igreja para participar dos 
+rituais tradicionais de ação de graças.
+É também importante mencionar que em 1958, a paróquia recebeu o título de patrocínio da Igreja Paroquial de Nossa Senhora Aparecida. Esta foi uma etapa importante na história da paróquia e também reflete o 
+comprometimento com o crescimento da comunidade católica local.
+Ainda mais, é notável mencionar que a paróquia Nossa Senhora Aparecida é um dos pontos de reunião principal para a população do município de São Bernardo do Campo, permitindo uma comunidade interligada e 
+unida.
+]
+
+* llama: [O patrono da cidade de São Bernardo do Campo, no estado de São Paulo, é Santo Estêvão Mártir.
+A história da cidade de São Bernardo do Campo está ligada à figura do padroeiro, Santo Estêvão Mártir. Segundo a lenda, o Santo estabeleceu uma igreja na província de Roma, hoje conhecida como Italy, no século I d.C.
+A história de Santo Estêvão começa no Império Romano, durante o reinado do imperador Nero (54-68 d.C.). Segundo a lenda, Estêvão, um cristão convertido, foi preso e torturado por suas crenças religiosas. No décimo segundo dia da prisão, Estêvão foi condenado à morte e foi lapidado até a morte, tornando-se o primeiro mártir da Igreja Católica.
+Em 1614, uma grupo de padres italianos, liderados pelo Padre Antonio Barbosa, fundaram uma missão em um local chamado "Cesário", que mais tarde se tornaria São Bernardo do Campo. Os padres estabeleceram uma igreja em honra a Santo Estêvão Mártir, para celebrar a sua figura como mártir e espiritualidade cristã.
+Santo Estêvão Mártir é muito venerado na cidade, e a sua festa é comemorada em 26 de dezembro. A partir da escolha do padroeiro, a cidade de São Bernardo do Campo foi batizada em homenagem ao Santo e desde então, a sua figura é um ponto central na cultura e na história da cidade.
+A presença de Santo Estêvão Mártir na cidade também é relacionada à construção da Igreja de Santo Estêvão, um importante templo católico em São Bernardo do Campo, que absorve a devoção à figura do Santo.]
+
+* gemini: [O patrono da cidade de São Bernardo do Campo é São Bernardo, o Eremita.
+Sua história:
+    Origem: São Bernardo nasceu em 1090, em Fontaines, na França.
+    Vida: Ele era um monge beneditino que se tornou um famoso teólogo e escritor religioso. Abriu uma escola de teologia em Clairvaux, onde escreveu obras teológicas e espirituais importantes. Ele também foi um crítico ferrenho das heresias e do comportamento da Igreja Católica.
+    Legado: É reconhecido por sua contribuição à teologia, pelos escritos que ajudaram a moldar o pensamento religioso da época e pela fundação de centenas de mosteiros.
+    Patrono: A cidade de São Bernardo do Campo foi fundada em 1857 e, por causa da importância do trabalho religioso de São Bernardo, ele foi escolhido como o patrono da cidade. A escolha reflete os valores de fé, trabalho e dedicação à comunidade que eram importantes para os fundadores da cidade.
+Curiosidades:
+    A cidade de São Bernardo do Campo, localizada na região metropolitana de São Paulo, é conhecida por seu polo industrial e por sediar a fábrica da Volkswagen.
+    A data de 20 de agosto, dia de São Bernardo, é comemorada na cidade como Dia do Município.
+    A Basílica de São Bernardo, uma igreja com arquitetura gótica, é um dos principais pontos turísticos da cidade.
+Espero que essa informação seja útil!]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(c) If we lay 5 shirts out in the sun and it takes 4 hours to dry, how long would 20 shirts take to dry? Answer immediately giving the number and nothing else.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+respostas:
+* qwen: [It would take 8 hours for 20 shirts to dry if they are laid out in the sun as there is an example stating that it takes 4 hours to dry when laying 5 shirts out. The number is 8, which includes both shirts 
+and time spent drying them simultaneously. If you need more information on a single shirt's drying time or the total time for 20 shirts, I can provide further details based on your specific needs.]
+* llama: [8]
+* gemini: [4]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(d) Q: The odd numbers in this group add up to an even number: 15, 32, 5, 13, 82, 7, 1. A:
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+respostas:
+* qwen: [The odd numbers listed here are 13, 5, and 13 again. If we add them together, we get \(13 + 5 + 13 = 31\). This is an even number. 
+Therefore, the correct answer is: 31
+]
+
+* llama: [A clever question!
+The odd numbers in the group are: 15, 5, 13, 7, and 1.
+Adding them up, we get: 15 + 5 + 13 + 7 + 1 = 41.
+And 41 is an odd number, not an even number!
+So, unfortunately, the answer is incorrect. The odd numbers in this group do not add up to an even number.]
+
+* gemini: [This statement is true.
+Here's why:
+    Odd numbers: 15, 5, 13, 7, 1
+    Sum of odd numbers: 15 + 5 + 13 + 7 + 1 = 41
+    41 is an even number.
+Even though the statement includes even numbers (32, 82), the sum of the odd numbers is what matters.]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Qual modelo teve a melhor performance?
+Resposta: llama
+
+Quais são os pontos fortes e fracos de cada modelo?
+Resposta: llama foi o que respondeu de forma mais detalhada e sempre com acerto. As outras IA's responderam de forma menos detalhada e com erro.
+            qwen respondeu errado a questão D. Na questão C o gemini respondeu errado em comparação com os outros
+
+Quais diferenças notáveis você observou entre as respostas em português e inglês?
+Resposta: Não consegui observar diferença entre as respostas em português ou inglês
